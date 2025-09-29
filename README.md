@@ -25,5 +25,3 @@ Para lograr la operación en tiempo real (>30 FPS) requerida en vigilancia [4], 
 ## 5. Instalación y Ejecución
 # Instalación de dependencias de CV y Seguimiento
 pip install opencv-python numpy
-
-# git clone [https://github.com/mikel-brostrom/yolo_tracking.git](https://github.com/mikel-brostrom/yolo_tracking.git) # Ejemplo para tracking
